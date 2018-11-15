@@ -84,7 +84,7 @@ res = cv2.matchTemplate(img, template, eval('cv2.TM_CCOEFF'))
 ## 3. 在王思聪周围画个红框 —— `minMaxLoc` (OpenCV)；
 matchTemplate 函数得到的结果是一个灰度数值图，给出的是图像中每一个 detect 范围的匹配程度，灰度数值越大，则相似度越高。
 
-为了画出这个最有可能出现思聪王的位置，我们使用 OpenCVv 的 minMaxLoc 函数来得到思聪王边框的具体位置，并进一步使用 OpenCV 的 rectangle 函数来画出这个框。
+为了画出这个最有可能出现思聪王的位置，我们使用 OpenCV 的 minMaxLoc 函数来得到思聪王边框的具体位置，并进一步使用 OpenCV 的 rectangle 函数来画出这个框。
 ```python
 from matplotlib import pyplot as plt
 
