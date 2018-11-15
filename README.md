@@ -6,7 +6,7 @@
 
 看到一个美术生的作品，如何 `3` 秒内找到思聪王。
 
-<div align=center><img src="./img/ducks.jpg" width = "400"></div>
+<div align=center><img src="./img/ducks.jpg" width = "400"></div><br>
 
 我找了好久啊，这幅图画的真是魔性，看得眼睛都花了，浪费了我宝贵的上班时间。不得不承认，我，作为一个工科生，`3` 秒钟是找不到了。但是，我的电脑可以呀！
 
@@ -38,7 +38,7 @@
 
 这个部分主要是数据的预处理，说得很专业，其实就是用电脑自带的截图工具，截取一个小鸭子，他的大小大约为 `36 * 36`。我们就相应地把王思聪 resize 到和小鸭子同等大小，这里采用了插值 `'inter_cubic'` 的方式来进行重采样。
 
-<div align=center><img src="./img/wangsicong.jpg" width = "300"></div>
+<div align=center><img src="./img/wangsicong.jpg" width = "300"></div><br>
 
 ```python
 #!/usr/bin/env python3
@@ -102,7 +102,7 @@ plt.imshow(imgplt)
 plt.title('Detected results'), plt.xticks([]), plt.yticks([])
 plt.show()
 ```
-<div align=center><img src="./img/detected.jpg" width = "400"></div>
+<div align=center><img src="./img/detected.jpg" width = "400"></div><br>
 
 结果如上！成功！
 
