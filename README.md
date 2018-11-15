@@ -1,4 +1,6 @@
-![origin](./img/original.jpg)
+
+<span align=center><img src="./img/original.jpg" width = "200"></span>
+  
 # 3秒找出王思聪都能上热搜？呵呵，0.03秒就可以
 
 IG 夺冠啦！你们的王校长又双叒叕火啦！连吃热狗都吃的如此销魂，那我们当然要来在人群中找到他呢！
