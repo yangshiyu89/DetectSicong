@@ -1,8 +1,8 @@
 # `3` 秒找出王思聪都能上热搜？呵呵，`0.03` 秒就可以
 
-<div align=center><img src="./img/original.jpg" width = "100%"></div>
+<div align=center><img src="./img/original.jpg" width = "100%"></div><br>
 
-IG 夺冠啦！我们的王校长又双叒叕火啦！连吃热狗都吃的如此销魂，那我们当然要来在人群中找到他呢！
+*IG 夺冠啦！我们的王校长又双叒叕火啦！连吃热狗都吃的如此销魂，那我们当然要来在人群中找到他呢！*
 
 看到一个美术生的作品，如何 `3` 秒内找到思聪王。
 
