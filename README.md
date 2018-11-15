@@ -102,8 +102,7 @@ plt.imshow(imgplt)
 plt.title('Detected results'), plt.xticks([]), plt.yticks([])
 plt.show()
 ```
-![detected](./img/detected.jpg)
-
+<div align=center><img src="./img/detected.jpg" width = "400"></div>
 
 结果如上！成功！
 
