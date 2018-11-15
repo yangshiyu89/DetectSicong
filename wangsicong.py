@@ -11,8 +11,8 @@ from matplotlib import pyplot as plt
 import timeit
 
 start = timeit.default_timer()
-img = cv2.imread('ducks.jpg')
-template = cv2.imread('wangsicong.jpg')
+img = cv2.imread('img/ducks.jpg')
+template = cv2.imread('img/wangsicong.jpg')
 template = cv2.resize(template, (36, 36), interpolation=cv2.INTER_CUBIC)
 w, h = template[:,:,0].shape[::-1]
     
@@ -29,7 +29,7 @@ cv2.rectangle(imgplt,top_left, bottom_right, 255, 2)
 plt.imshow(imgplt)
 plt.title('Detected results'), plt.xticks([]), plt.yticks([])
 plt.show()
-cv2.imwrite('detected.jpg', cv2.cvtColor(imgplt, cv2.COLOR_BGR2RGB))
+cv2.imwrite('img/detected.jpg', cv2.cvtColor(imgplt, cv2.COLOR_BGR2RGB))
 
 stop = timeit.default_timer()
 print('Time: ', stop - start)
