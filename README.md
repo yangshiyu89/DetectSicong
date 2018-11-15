@@ -1,1 +1,1 @@
-![origin](.img/original.jpg)
+![origin](./img/original.jpg)
