@@ -1,12 +1,10 @@
 # 3秒找出王思聪都能上热搜？呵呵，0.03秒就可以
 
-<div align=center><img src="./img/original.jpg" width = "400"></div>
-
 IG 夺冠啦！你们的王校长又双叒叕火啦！连吃热狗都吃的如此销魂，那我们当然要来在人群中找到他呢！
 
 看到一个美术生的作品，如何 `3` 秒内找到思聪王。
 
-<div align=center><img src="./img/ducks.jpg" width = "300"></div>
+<div align=center><img src="./img/ducks.jpg" width = "400"></div>
 
 我找了好久啊，这幅图画的真是魔性，看得眼睛都花了，浪费了我宝贵的上班时间。不得不承认，我，作为一个工科生，`3` 秒钟是找不到了。但是，我的电脑可以呀！
 
