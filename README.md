@@ -38,7 +38,7 @@ IG 夺冠啦！你们的王校长又双叒叕火啦！连吃热狗都吃的如�
 
 这个部分主要是数据的预处理，说得很专业，其实就是用电脑自带的截图工具，截取一个小鸭子，他的大小大约为 `36*36`。我们就相应地把王思聪 resize 到和小鸭子同等大小，这里采用了插值 `'inter_cubic'` 的方式来进行重采样。
 
-![wangsicong](./img/wangsicong.jpg)
+<div align=center><img src="./img/wangsicong.jpg" width = "300"></div>
 
 ```python
 #!/usr/bin/env python3
@@ -103,6 +103,7 @@ plt.title('Detected results'), plt.xticks([]), plt.yticks([])
 plt.show()
 ```
 ![detected](./img/detected.jpg)
+
 
 结果如上！成功！
 
