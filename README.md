@@ -117,7 +117,7 @@ stop = timeit.default_timer()
 print('Time: ', stop - start)
 ```
 
-我平均跑了十次，2018 年款的 mac air，基本配置的平均时间是 0.2 秒！
+我平均跑了十次，`2018` 年款的 Mac Air，基本配置的平均时间是 `0.2` 秒！
 
 目标达成！
 
