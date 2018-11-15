@@ -100,7 +100,7 @@ plt.imshow(imgplt)
 plt.title('Detected results'), plt.xticks([]), plt.yticks([])
 plt.show()
 ```
-![detect](./img/detect.jpg)
+![detected](./img/detected.jpg)
 
 结果如上！成功！
 
@@ -129,4 +129,4 @@ PS，👆是为了展示一下 OpenCV 的风采。因此使用了传统的模式
 在最终的[脚本](./wangsicong.py)中，我们整理了所有代码，调整了部分顺序。
 
 
-OpenCV 是 计算机视觉 中非常重要的类库，他既可以支持传统计算机视觉处理，也可以支持 深度学习计算机视觉。他的底层是 C++，运算速度很快，也提供了 Python 的调用接口，真的省了很多事呢！
+OpenCV 是 **计算机视觉** 中非常重要的类库，他既可以支持传统计算机视觉处理，也可以支持 **深度学习计算机视觉**。他的底层是 C++，运算速度很快，也提供了 Python 的调用接口，真的省了很多事呢！
